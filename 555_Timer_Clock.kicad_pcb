@@ -659,7 +659,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 -1.905 90)
+			(at 2.54 -2.252 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dea0f2e2-6b2d-46b0-9c14-9b0a710a6271")
@@ -1981,7 +1981,7 @@
 		(uuid "ad3d73e8-544c-4cd3-9d27-4deba553c0d7")
 		(at 146.45 104 -90)
 		(property "Reference" "J1"
-			(at -1.825 -8.635 90)
+			(at -2.5 -7.05 90)
 			(layer "F.SilkS")
 			(uuid "8b5fae0d-fc31-493a-9a59-db1209c38c51")
 			(effects
@@ -3362,6 +3362,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "dd599ed0-ef24-4841-833a-cd615f7ed35f")
+	)
+	(gr_text "BlabbotLance-011"
+		(at 147 93 0)
+		(layer "F.SilkS")
+		(uuid "4327c656-53ed-4ca4-a25e-18c0fc19f874")
+		(effects
+			(font
+				(size 0.508 0.508)
+				(thickness 0.0508)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_text "+"
 		(at 141.401 101.604 0)
